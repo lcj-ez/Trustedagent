@@ -25,4 +25,6 @@ TrustedAgent 基于全球 AI 法规、EU AI Act、NIST AI RMF、专家建议以�
 - Gemma 4 E4B
 
 分别找了8个维度的测试数据，然后进行2 x 2跑测试集来评分
+
 评分细则： 得分 =得分 = 正确的测试用例数 / 总测试用例数
+![Test Result](./test-result.png?raw=true))
